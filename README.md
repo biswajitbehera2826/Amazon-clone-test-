@@ -1,3 +1,5 @@
+**Amazon Clone Website**
+
 This project is a **static Amazon Clone website** created using **HTML and CSS**.
 It replicates the basic layout and design of the Amazon homepage, focusing on UI structure, styling, and responsiveness.
 The project is developed to practice **front-end web development skills** such as page layout, CSS styling, and responsive design.
